@@ -1,2 +1,2 @@
 # Computer-Networks-Material
-this repository contains study material regarding CCNA and networking .
+This repository contains study material regarding CCNA and networking .
